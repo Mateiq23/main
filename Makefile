@@ -1,0 +1,2 @@
+LDLIBS += -lcsbootcamp
+CC := clang
